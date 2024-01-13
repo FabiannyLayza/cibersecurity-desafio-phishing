@@ -18,4 +18,11 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+### Terraform Plan
+![](imgs/image1.jpeg)
+
+### Terraform Apply
+![](imgs/image2.jpeg)
+
+### Terraform Cloud
+![](imgs/image3.jpeg)
