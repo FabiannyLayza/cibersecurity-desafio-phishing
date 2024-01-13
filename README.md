@@ -18,11 +18,11 @@
 
 ### Resutados
 
-### Terraform Plan
+### Print 1
 ![](imgs/image1.jpeg)
 
-### Terraform Apply
+### Print 2
 ![](imgs/image2.jpeg)
 
-### Terraform Cloud
+### Print 3
 ![](imgs/image3.jpeg)
